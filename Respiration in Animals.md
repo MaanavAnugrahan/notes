@@ -1,5 +1,5 @@
 ---
-tags: #NEET/Biology
+tags: NEET/Biology
 ---
 
 # Lungs
