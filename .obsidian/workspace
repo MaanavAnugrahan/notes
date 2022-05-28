@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "e372b398bfd18599",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a0e8b0fc1ecf4d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Respiration in Animals.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33b44a80bad3b7ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c1ae815eeb819dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85a22ff4080118d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d5868c48371ce63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "516f9ccac8959f1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecb2fc8e392729a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "330fee3f113e8cd1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Respiration in Animals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9a0e8b0fc1ecf4d0",
+  "lastOpenFiles": [
+    "Respiration in Animals.md"
+  ]
+}
