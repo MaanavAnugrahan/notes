@@ -7,7 +7,6 @@ url: https://gist.github.com/developius/c81f021eb5c5916013dc
 ``` ssh
 ssh-keygen -t rsa -C "your_email@example.com"
 ```
-
 - Copy the contents of the file ~/.ssh/id_rsa.pub to your SSH keys in your GitHub account settings (https://github.com/settings/keys).
 - Test SSH key:
 ```
