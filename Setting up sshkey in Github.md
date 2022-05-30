@@ -1,6 +1,9 @@
 ---
 url: https://gist.github.com/developius/c81f021eb5c5916013dc
 ---
+
+Tags:: [[Github]] [[SSH]]
+
 # Setting up shh keys in github
 - Create a new repository, or reuse an existing one.
 - Generate a new SSH key:
