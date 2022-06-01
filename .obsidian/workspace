@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "79fd3ced071cb6da",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e3e175d0e1b1f25",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "+ How To Make Notes for NEET 2023 from Scratch | NEET Strategy 2023 by Vani Ma'am.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57eee2bca48c122d",
+    "type": "split",
+    "children": [
+      {
+        "id": "54d127736663380e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fbcd61dd4cf027b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b53b48b01aa3134",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "454cf40cf1056b44",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6ba191c0fec77dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecd81e8ee6ad0436",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "+ How To Make Notes for NEET 2023 from Scratch | NEET Strategy 2023 by Vani Ma'am.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2e3e175d0e1b1f25",
+  "lastOpenFiles": [
+    "+ How To Make Notes for NEET 2023 from Scratch | NEET Strategy 2023 by Vani Ma'am.md",
+    "If and Else Statemets in shell scripting.md",
+    "Theory of Relativity.md",
+    "Porosity.md"
+  ]
+}
